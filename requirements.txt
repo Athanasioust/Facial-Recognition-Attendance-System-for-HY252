@@ -1,0 +1,6 @@
+face_recognition==1.3.0
+opencv-python==4.5.3.56
+face-alignment==1.0.0
+scikit-image==0.18.3
+numpy==1.21.2
+
