@@ -1,0 +1,23 @@
+# --- Personal / biometric data (GDPR) — never commit ---
+3-Data/
+input/
+students/
+recognized_faces/
+*.pkl
+attendance_report.csv
+attendance_report.txt
+log.txt
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.Python
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,17 @@
+# NVIDIA GPU dependencies (CUDA 12). Requires an NVIDIA GPU and a recent driver.
+# No system CUDA Toolkit needed — the CUDA/cuDNN runtime is provided by the
+# nvidia-*-cu12 packages below.
+#
+# For CPU-only machines, use the default:  pip install -r requirements.txt
+
+insightface>=0.7.3
+opencv-python>=4.8.0
+numpy>=1.24
+
+onnxruntime-gpu>=1.18.0
+
+nvidia-cudnn-cu12
+nvidia-cublas-cu12
+nvidia-cuda-runtime-cu12
+nvidia-cufft-cu12
+nvidia-curand-cu12
