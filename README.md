@@ -175,3 +175,9 @@ snapshots are personal data — they are excluded from version control via
 ## Author
 
 **Stelios Athanasiou** — MSc Student in Computer Science, University of Crete.
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE). © 2026 Stelios Athanasiou.
